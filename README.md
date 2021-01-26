@@ -1,4 +1,6 @@
 # Daikin-WSP Idea and steps on automating the scale process for accurate data 99% of the time.
+https://app.diagrams.net/#Hfoday%2FDaikin-WSP%2Fmain%2FDaikin%20WSP.drawio
+
 A program for automating the weight scale process at a manufacturer called Daikin
 
 I will start the project by architecting the process using uml unified modeling language
